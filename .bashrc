@@ -3,7 +3,7 @@ alias c="clear && clear && clear && clear && clear && clear && clear"
 alias y="yarn"
 
 alias gs="git fetch && git status"
-alias gf="git fetch --all --fetch"
+alias gf="git fetch --all"
 alias gps="git push -u origin HEAD"
 alias gpsf="git push -u origin HEAD --force-with-lease"
 alias gpl="git pull"
